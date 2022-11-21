@@ -1,3 +1,9 @@
+## 🚧 No longer maintained 🚧
+
+This is a community project in need of maintenance. You can find a list of installations at https://make.opendata.ch/wiki/project:open_budget - check the other forks for code updates, and feel free to use the [Issue board](https://github.com/OpendataCH/open-budget/issues) or [our forums](https://forum.opendata.ch) to ask a question.
+
+For visualizations see: https://github.com/OpendataCH/open-budget
+
 # Open Budget converters
 
 [Project in opendata.ch Wiki](http://make.opendata.ch/wiki/project:open_budget)
